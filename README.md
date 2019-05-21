@@ -1,3 +1,3 @@
 # ExploratoryDataAnalysis
 ExploratoryDataAnalysis using python
-![image.png](C:\Users\738329\Documents\Project_IPL_EDA_PrasunKantiGhosh\Image1.png)
+![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Data_visualization_process_v1.png/350px-Data_visualization_process_v1.png)
