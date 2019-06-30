@@ -1,12 +1,6 @@
-# Indian Premier League Analysis
-The Indian Premier League is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India in 2008.
-
-
-![image.png](https://i.pinimg.com/originals/f0/fa/45/f0fa452ce5ec464e6f6539b36d308b82.jpg)
-
 
 # ExploratoryDataAnalysis
-ExploratoryDataAnalysis using python
+
 
 ## What is Exploratory Data Analysis (EDA) ?
 EDA is a phenomenon under data analysis used for gaining a better understanding of data aspects like:
@@ -30,6 +24,12 @@ In statistics, exploratory data analysis (EDA) is an approach to analyzing data 
 This repository tells about various EDA methods using python.
 
 ## Table of Contents
-1. [Indian Premier League Analysis]
+1. [Indian Premier League Analysis](#section1)<br>
 
 
+<a id=section1></a>
+# Indian Premier League Analysis
+The Indian Premier League is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India in 2008.
+
+
+![image.png](https://i.pinimg.com/originals/f0/fa/45/f0fa452ce5ec464e6f6539b36d308b82.jpg)
