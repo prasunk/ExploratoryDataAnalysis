@@ -21,7 +21,7 @@ In statistics, exploratory data analysis (EDA) is an approach to analyzing data 
 
 
 ## Repository Overview
-This repository tells about various EDA methods using python.
+This repository tells about various EDA methods using python programming language.
 
 ## Table of Contents
 1. [Indian Premier League Analysis](#section1)<br>
