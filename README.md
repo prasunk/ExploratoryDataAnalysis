@@ -33,3 +33,10 @@ The Indian Premier League is a professional Twenty20 cricket league in India con
 
 
 ![image.png](https://i.pinimg.com/originals/f0/fa/45/f0fa452ce5ec464e6f6539b36d308b82.jpg)
+
+- Research shows the most successful teams through out all the season.
+- Analysis has been done to find out what are the important factrs to win IPL matches.
+- Help to showcase the most successful players in each seasons.
+
+
+
