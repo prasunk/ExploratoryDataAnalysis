@@ -56,3 +56,6 @@ Data Science / Analytics is all about finding valuable insights from the given d
  - How is the Individual Scores pattern By Top Batsman each Innings?
  - What is the average batsman score across seasons?
  - How were the batsmen got out mostly?
+ 
+ [Direct Link to Jupyter Notebook](https://github.com/prasunk/ExploratoryDataAnalysis/blob/master/Indian%20Premier%20League/Matches_DataProfiling.ipynb)
+ 
