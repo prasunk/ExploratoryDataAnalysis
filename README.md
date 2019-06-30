@@ -7,4 +7,29 @@ The Indian Premier League is a professional Twenty20 cricket league in India con
 
 # ExploratoryDataAnalysis
 ExploratoryDataAnalysis using python
+
+## What is Exploratory Data Analysis (EDA) ?
+EDA is a phenomenon under data analysis used for gaining a better understanding of data aspects like:
+- main features of data
+- variables and relationships that hold between them
+- identifying which variables are important for our problem
+
+In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task.
+
+## various exploratory data analysis methods
+- *Descriptive Statistics*, which is a way of giving a brief overview of the dataset we are dealing with, including some measures and features of the sample
+- *Grouping data* [Basic grouping with group by]
+- ANOVA, Analysis Of Variance, which is a computational method to divide variations in an observations set into different components.
+- *Correlation and correlation methods*
+
+
 ![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Data_visualization_process_v1.png/350px-Data_visualization_process_v1.png)
+
+
+## Repository Overview
+This repository tells about various EDA methods using python.
+
+## Table of Contents
+1. [Indian Premier League Analysis]
+
+
